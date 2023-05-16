@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaSoftQuestion1", "MediaSoftQuestion1\MediaSoftQuestion1.csproj", "{5A1C85DF-8E8D-4D52-ACEB-C2BEF6C935FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A1C85DF-8E8D-4D52-ACEB-C2BEF6C935FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1C85DF-8E8D-4D52-ACEB-C2BEF6C935FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1C85DF-8E8D-4D52-ACEB-C2BEF6C935FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1C85DF-8E8D-4D52-ACEB-C2BEF6C935FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10E078CD-2266-4FE7-9031-5F264CF5FA44}
+	EndGlobalSection
+EndGlobal
